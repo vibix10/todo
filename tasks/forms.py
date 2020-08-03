@@ -7,3 +7,5 @@ class TasksForm(forms.ModelForm):
     class Meta:
         model = Tasks
         fields = '__all__'
+
+#commite changes
